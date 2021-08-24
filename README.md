@@ -1,2 +1,3 @@
-# MyProtein
-Future application for protein design. 
+# Protein structure 
+
+Calculation of protein features. 

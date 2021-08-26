@@ -2,7 +2,7 @@
 
 Calculation of protein features. 
 
-Jupyter notebook with function to calculate various protein features from pdb files in the protein data bank. 
+Jupyter notebook included with functions to calculate various protein features from pdb files in the protein data bank. 
 * protein length
 * surface area 
 * fractions of secondary structures

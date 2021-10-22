@@ -14,3 +14,9 @@ Jupyter notebook included with functions to calculate various protein features f
 * instability 
 * average b-factor
 * Ramachandran plot
+
+
+# Using Cider to calculate characteristics of intrinstically disordered proteins (IDPs) 
+Reference: 
+Holehouse, Alex S., et al. "CIDER: resources to analyze sequence-ensemble relationships of intrinsically disordered proteins." Biophysical journal 112.1 (2017): 16-21.
+
